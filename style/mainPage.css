@@ -1,0 +1,19 @@
+h1 {
+    background-color: #c59225;
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 50px;
+}
+
+button {
+    font-size: 40px;
+}
+
+.desc {
+    font-size: 30px;
+}
