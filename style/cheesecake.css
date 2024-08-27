@@ -1,0 +1,20 @@
+.heads {
+    font-size: 50px;
+    color: white;
+    background-color: #c59225;
+    text-align: center;
+    font-family: "Courier New", sans-serif;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.words {
+    font-size: 25px;
+}
+
+.sections{
+    font-size: 35px;
+}
